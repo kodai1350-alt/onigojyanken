@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83f1e786b4a543e4e97573f2a84435fa, type: 3}
+  m_Name: Scroll_Teleport
+  m_EditorClassIdentifier: Assembly-CSharp::MagicHand.TeleportEffectSO
+  displayName: "\u30EF\u30FC\u30D7"
+  displayColor: {r: 0.35, g: 1, b: 0.9, a: 1}
+  description: "\u524D\u65B9\u3078\u77AC\u9593\u79FB\u52D5\u3059\u308B\u3002"
+  icon: {fileID: 21300000, guid: a340e893b00340841bf3bc3a461850d1, type: 3}
+  distance: 14
+  blockMask:
+    serializedVersion: 2
+    m_Bits: 4294967295

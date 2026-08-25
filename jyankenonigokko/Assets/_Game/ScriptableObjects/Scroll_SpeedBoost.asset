@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 117d8d17d3d947845a207995d8d8ece4, type: 3}
+  m_Name: Scroll_SpeedBoost
+  m_EditorClassIdentifier: Assembly-CSharp::MagicHand.SpeedBoostEffectSO
+  displayName: "\u30B9\u30D4\u30FC\u30C9Up"
+  displayColor: {r: 1, g: 0.85, b: 0.25, a: 1}
+  description: "\u4E00\u5B9A\u6642\u9593\u3001\u79FB\u52D5\u901F\u5EA6\u304C\u4E0A\u304C\u308B\u3002"
+  icon: {fileID: 21300000, guid: 8a0b225533910184486f1c4c6774fcfb, type: 3}
+  speedMultiplier: 1.5
+  duration: 5
